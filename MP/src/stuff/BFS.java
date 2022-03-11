@@ -9,10 +9,10 @@ public class BFS {
 		
 		Field field = new Field();
 		
-		int startX = 5;
-		int startY = 4;
-		int endX = 4;
-		int endY = 6;
+		int startX = 1;
+		int startY = 1;
+		int endX = 9;
+		int endY = 9;
 		
 		field.endX(endX);
 		field.endY(endY);

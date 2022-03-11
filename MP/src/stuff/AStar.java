@@ -8,8 +8,8 @@ public class AStar {
 		
 		int startX = 1;
 		int startY = 1;
-		int endX = 10;
-		int endY = 10;
+		int endX = 9;
+		int endY = 9;
 		
 		Field field = new Field();
 		char parent[][] = new char[field.coor.length][field.coor[0].length]; //r-right, l-left, u-up, d-down
